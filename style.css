@@ -1,0 +1,94 @@
+.img1{
+  margin-left: 400px;
+   width: 1100px;
+}
+.nav-1st{
+  font-size: 18px;
+    margin-left: -15px;
+}
+.nav-2nd{
+  margin-left: 160px;
+}
+.nav-3rd{
+  margin-left: 0px;
+}
+.img2{
+  width: 130px;
+  height: 100px;
+  margin:10px 0px 114px 210px;
+}
+.img3{
+  width: 130px;
+  height: 100px;
+  margin:-156px 0px 0px 403px;
+}
+.img4{
+  width: 130px;
+  height: 100px;
+  margin:-163px 0px 0px 600px;
+}
+.img5{
+  width: 130px;
+  height: 100px;
+  margin:-160px 0px 0px 798px;
+}
+.img6{
+  width: 130px;
+  height: 100px;
+  margin:-160px 0px 0px 992px;
+}
+#font-1{
+  font-size: 11px;
+  margin:-110px 0px -2px 208px;
+}
+#font-2{
+  font-size: 11px;
+    margin:-32px 0px 0px 401px;
+}
+#font-3{
+  font-size: 11px;
+    margin:-36px 0px 0px 599px;
+}
+#font-4{
+  font-size: 11px;
+    margin: -35px 0px 0px 797px;
+}
+#font-5{
+  font-size: 11px;
+    margin: -35px 0px 0px 991px;
+}
+.navbar-brand{
+  font-size: 26px;
+    font-family: -webkit-body;
+}
+.Sub{
+  margin-left: 78px;
+}
+.Account{
+  margin-left: 110px
+}
+.container{
+  width: 1323px;
+  margin:5px 0px 0px 15px
+  background-color:white;
+}
+  .navbar-brand{
+    font-size: 26px;
+      font-family: -webkit-body;
+  }
+  .Sub{
+    margin-left: 78px;
+  }
+  .Account{
+    margin-left: 110px
+  }
+  .img-1{
+    margin:10px 0px 0px 257px;
+  }
+ .img-2{
+  margin: -302px 0px 0px 549px;
+ }
+ .img-3{
+  margin: -300px 0px 0px 853px;
+ }
+
